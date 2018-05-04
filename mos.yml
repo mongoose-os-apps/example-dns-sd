@@ -1,9 +1,6 @@
 version: 1.0
 author: mongoose-os
 description: DNS-SD usage example in C/C++
-
-  platform
-
 libs_version: ${mos.version}
 modules_version: ${mos.version}
 mongoose_os_version: ${mos.version}
