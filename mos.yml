@@ -11,6 +11,7 @@ filesystem:
   - fs
 
 libs:
+  - origin: https://github.com/mongoose-os-libs/boards
   - origin: https://github.com/mongoose-os-libs/dns-sd
   - origin: https://github.com/mongoose-os-libs/wifi
   # For test only
